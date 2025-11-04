@@ -1,0 +1,6 @@
+Mode=Install
+Roles=CA,MB
+OrganizationName=Ekin
+TargetDir=C:\Exchange Server
+AcceptLicense=True
+isopath=E:
