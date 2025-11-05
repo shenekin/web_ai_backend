@@ -1,7 +1,0 @@
-Set-Location E:
-cd E:
-.\Setup.EXE /PrepareSchema /IAcceptExchangeServerLicenseTerms
-
-.\Setup.EXE /PrepareAD /OrganizationName:"ekin" /IAcceptExchangeServerLicenseTerms
-.\Setup.EXE /PrepareAllDomains /IAcceptExchangeServerLicenseTerms
-.\Setup.EXE /PrepareDomain:dc01.contoso.local /IAcceptExchangeServerLicenseTerms

@@ -1,5 +1,0 @@
-user0001@contoso.local
-user002@contoso.local
-user0003@contoso.local
-user0004@contoso.local
-administrator@contoso.local
