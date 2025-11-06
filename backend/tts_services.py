@@ -32,5 +32,5 @@ def generate_tts_audio(text: str, save_dir: str = "tts_output"):
 
     print(f"[TTS] Saved local file: {file_path}")
 
-    # Return both
-    return mp3_bytes, file_path
+    # Return only the BytesIO object (no file path)
+    return mp3_bytes
